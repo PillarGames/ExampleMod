@@ -1,7 +1,7 @@
 # Introduction to Anterra Modding (Mostly for Jachro)
 
 ## File Structure
-```jsonc
+```
 📁<root>
  ├─📁assets
  │  ├─📁sounds
@@ -22,7 +22,7 @@
  │  └─📁maps
  │     └─📄<map>.json
  ├─📁scripts
- │  └─📄<script>.cs
+ │  └─📄<script>.cs // hi
  └─📄mod.json
 ```
 ## Setting up your ```mod.json```
