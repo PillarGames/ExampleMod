@@ -1,0 +1,10 @@
+{
+	"scriptConfig": {
+		"entryClass":"Garva.Mod",
+		"entryMethod":"Main"
+	},
+	"name":"The Garva Mod",
+	"id":"garva:mod",
+	"version":"0.1",
+	"dependencies":[]
+} 
