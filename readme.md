@@ -26,7 +26,7 @@
  └─📄mod.json
 ```
 ## Setting up your ```mod.json```
-```json
+```jsonc
 {
     "scriptConfig": {
         "entryClass":"Anterra.Test", // The entry class requires the namespace, it is not implied.
