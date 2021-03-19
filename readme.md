@@ -3,7 +3,7 @@
 ## File Structure
 
 ```
- ┌📁<root>
+📁<root>
  ├─📁assets
  │  ├─📁sounds
  │  |  └─📄<sound>.ogg
