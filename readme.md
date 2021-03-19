@@ -1,7 +1,7 @@
 # Introduction to Anterra Modding (Mostly for Jachro)
 
 ## File Structure
-```
+```jsonc
 📁<root>
  ├─📁assets
  │  ├─📁sounds
