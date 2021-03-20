@@ -1,11 +1,10 @@
 using UnityEngine;
 using System;
 
-namespace Garva
-{
+namespace Example {
     public class Mod {
         public static void Main() {
-            new GameObject("GarvaManager",new Type[] { typeof(GarvaManager) });
+            Debug.Log("ran");
         }
     }
 }

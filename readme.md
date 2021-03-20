@@ -22,7 +22,7 @@
  │  └─📁maps
  │     └─📄<map>.json
  ├─📁scripts
- │  └─📄<script>.cs // hi
+ │  └─📄<script>.cs
  └─📄mod.json
 ```
 ## Setting up your ```mod.json```
