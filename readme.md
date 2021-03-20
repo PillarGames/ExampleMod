@@ -5,25 +5,25 @@
 📁<root>
  ├─📁assets
  │  ├─📁sounds
- │  |  └─📄<sound>.ogg
+ │  |  └─🔊<sound>.ogg
  │  └─📁textures
- │     └─📄<texture>.png
+ │     └─🎨<texture>.png
  ├─📁data 
  │  ├─📁animations
- │  │  └─📄<animation>.json
+ │  │  └─🚶‍♂️<animation>.json
  │  ├─📁areas
- │  │  └─📄<area>.json
+ │  │  └─🌎<area>.area
  │  ├─📁entities
- │  │  └─📄<entity>.json
+ │  │  └─👺<entity>.json
  │  ├─📁items
- │  │  └─📄<item>.json
+ │  │  └─🥤<item>.json
  │  ├─📁loot_tables
- │  │  └─📄<loot_table>.json
+ │  │  └─🧰<loot_table>.json
  │  └─📁maps
- │     └─📄<map>.json
+ │     └─📜<map>.map
  ├─📁scripts
  │  └─📄<script>.cs
- └─📄mod.json
+ └─🔧mod.json
 ```
 ## Setting up your ```mod.json```
 ```jsonc
